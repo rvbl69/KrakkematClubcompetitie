@@ -22,7 +22,7 @@
 .MainTitleRow
 {
 	color: #f4e8f4;
-	background-color: #1a3054;
+	background-color: #4a5685;
 	font-weight: bold;
 }
 
@@ -140,7 +140,7 @@
 	font-weight: bold;
 	text-align: center;
 	color: #f4e8f4;
-	background-color: #1a3054;
+	background-color: #4a5685;
 }
 
 /* MainTable holds the style of the main table                */
@@ -216,7 +216,7 @@
 	font-weight: bold;
 	text-align: center;
 	color: #f4e8f4;
-	background-color: #1a3054;
+	background-color: #4a5685;
 }
 
 /* PlayerWebLink formats the cells where the player web links */
@@ -250,7 +250,7 @@
 .GameListHeader
 {
 	color: #f4e8f4;
-	background-color: #1a3054;
+	background-color: #4a5685;
 	font-weight: bold;
 }
 
@@ -287,7 +287,7 @@
 .PlayerListTitle
 {
 	color: #f4e8f4;
-	background-color: #1a3054;
+	background-color: #4a5685;
 	font-weight: bold;
 	text-align: center;
 }
@@ -297,7 +297,7 @@
 .PlayerListHeader
 {
 	color: #f4e8f4;
-	background-color: #1a3054;
+	background-color: #4a5685;
 	font-weight: bold;
 }
 
@@ -339,7 +339,7 @@
 .RankingTitle
 {
 	color: #f4e8f4;
-	background-color: #1a3054;
+	background-color: #4a5685;
 	font-weight: bold;
 	text-align: center;
 }
@@ -349,7 +349,7 @@
 .RankingHeader
 {
 	color: #f4e8f4;
-	background-color: #1a3054;
+	background-color: #4a5685;
 	font-weight: bold;
 }
 
@@ -380,7 +380,7 @@
 .XTableHeader
 {
 	color: #f4e8f4;
-	background-color: #1a3054;
+	background-color: #4a5685;
 	font-weight: bold;
 	vertical-align: bottom;
 }
@@ -521,7 +521,7 @@
 	font-size: 1em;
 	text-align: center;
 	color: #f4e8f4;
-	background-color: #1a3054;
+	background-color: #4a5685;
 }
 
 /* Board is the overall format for the board area             */
