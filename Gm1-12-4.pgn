@@ -1,0 +1,24 @@
+[Event "Krakkemat"]
+[Site "LDC Veltershof"]
+[Date "2024.05.30"]
+[Round "12"]
+[White "Gerard Verhaeghe"]
+[Black "Danny Vanbelleghem"]
+[Result "0-1"]
+[Section "Playoffs A"]
+
+{[%SevillaID "1070"]}
+[Event "Krakkemat Clubcompetitie"] [Site "Veldegem"] [Date "2024.05.30"] [Round
+"11"] [White "Gerard Verhaeghe"] [Black "Danny Vanbelleghem"] [Result "0-1"]
+[TimeControl "'45"]  1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6.
+Nf3 Bf5 7. Bc4 Bd6 8. O-O O-O $1 9. Be3 Nd7 10. Bb3 (10. Re1) 10... Nb6 11. c4
+Bc7 12. c5 $2 (12. Re1) 12... Nd5 13. Bxd5 Qxd5 14. Qd2 $6 Be4 (14... Rae8 15.
+Qd1) 15. Qe2 $2 Bxf3 $9 (15... Rfe8) 16. Qxf3 Qxf3 17. gxf3 Rad8 18. f4 Rd5 19.
+Rfe1 g5 20. f5 $2 Rxf5 21. Rad1 g4 $4 22. Bh6 $1 Rd8 $2 23. Re4 $1 Rh5 $6 24.
+Rxg4+ Kh8 25. Bg7+ $1 Kg8 26. Bxf6+ Kf8 27. Bxd8 Bxd8 28. Re4 Bc7 29. f4 f5 30.
+Re6 Bxf4 31. Rde1 Bxh2+ 32. Kf2 Kf7 33. Re7+ Kf6 34. R1e6+ Kg5 35. Rg7+ $6 Kf4
+36. Rg2 $9 Rh3 37. Kf1 $2 Bg3 $1 38. Ke2 $2 Bh4 $9 39. Rh6 $9 Re3+ $2 40. Kf1 $4
+Re1# 0-1 
+0-1
+
+
